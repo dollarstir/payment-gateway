@@ -1,0 +1,56 @@
+[11-Jul-2020 03:49:20 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 03:53:09 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 03:53:48 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 03:55:52 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 04:22:20 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 04:29:54 America/New_York] PHP Notice:  Undefined index: first_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[11-Jul-2020 06:27:56 America/New_York] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:28:04 America/New_York] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:28:54 America/New_York] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:30:55 America/New_York] PHP Warning:  Illegal string offset 'status' in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:30:57 America/New_York] PHP Warning:  Illegal string offset 'status' in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:31:37 America/New_York] PHP Warning:  Illegal string offset 'status' in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[11-Jul-2020 06:32:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function {
+  "status": true,
+  "message": "Banks retrieved",
+  "data": [
+    {
+      "name": "Access Bank",
+      "slug": "access-bank",
+      "code": "044",
+      "longcode": "044150149",
+      "gateway": "emandate",
+      "pay_with_bank": false,
+      "active": true,
+      "is_deleted": null,
+      "country": "Nigeria",
+      "currency": "NGN",
+      "type": "nuban",
+      "id": 1,
+      "createdAt": "2016-07-14T10:04:29.000Z",
+      "updatedAt": "2020-02-18T08:06:44.000Z"
+    },
+    {
+      "name": "Access Bank (Diamond)",
+      "slug": "access-bank-diamond",
+      "code": "063",
+      "longcode": "063150162",
+      "gateway": "emandate",
+      "pay_with_bank": false,
+      "active": true,
+      "is_deleted": null,
+      "country": "Nigeria",
+      "currency": "NGN",
+      "type": "nuban",
+      "id": 3,
+      "createdAt": "2016-07-14T10:04:29.000Z",
+      "updatedAt": "2020-02-18T08:06:48.000Z"
+    },
+    {
+      "name": "ALAT by WEMA",
+      "slug": "alat-by-wema",
+      in /home/dolltpvl/pay.dollarstir.com/test.php on line 49
+[12-Jul-2020 07:39:37 America/New_York] PHP Notice:  Undefined index: firt_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 10
+[12-Jul-2020 07:39:37 America/New_York] PHP Notice:  Undefined index: last_name in /home/dolltpvl/pay.dollarstir.com/pay.php on line 11
+[12-Jul-2020 07:39:37 America/New_York] PHP Notice:  Undefined index: email in /home/dolltpvl/pay.dollarstir.com/pay.php on line 12
+[12-Jul-2020 07:39:37 America/New_York] PHP Notice:  Undefined index: amount in /home/dolltpvl/pay.dollarstir.com/pay.php on line 13
